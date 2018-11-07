@@ -1,0 +1,7 @@
+BEFORE:
+
+var difference = 45 - 0;
+
+AFTER: 
+
+var difference = 45 - 33;
