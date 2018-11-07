@@ -1,0 +1,7 @@
+BEFORE:
+
+var product = 2.0 * 0.0;
+
+AFTER:
+
+var product = 2.0 * 2.5;
