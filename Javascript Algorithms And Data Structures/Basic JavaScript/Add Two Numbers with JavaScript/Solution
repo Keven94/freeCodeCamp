@@ -1,0 +1,7 @@
+BEFORE:
+
+var sum = 10 + 0;
+
+AFTER:
+
+var sum = 10 + 10;
